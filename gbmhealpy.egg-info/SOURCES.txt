@@ -1,0 +1,16 @@
+setup.cfg
+setup.py
+gbmhealpy/__init__.py
+gbmhealpy/coords.py
+gbmhealpy/data.py
+gbmhealpy/detectors.py
+gbmhealpy/gbmfile.py
+gbmhealpy/gbmtime.py
+gbmhealpy/headers.py
+gbmhealpy/lal_post_subs.py
+gbmhealpy/localization.py
+gbmhealpy.egg-info/PKG-INFO
+gbmhealpy.egg-info/SOURCES.txt
+gbmhealpy.egg-info/dependency_links.txt
+gbmhealpy.egg-info/requires.txt
+gbmhealpy.egg-info/top_level.txt

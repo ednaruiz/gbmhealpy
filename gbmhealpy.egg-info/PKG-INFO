@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: gbmhealpy
+Version: 0.0.0
+Summary: Python3 scripts for gbm visualization (minimal of the gbm tools in fermi data centre)
+Author: EdnaRuiz
+License: GNU General Public License v3.0 /Although I am not sure
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Provides-Extra: tests
+Provides-Extra: all
+Provides-Extra: docs
+Provides-Extra: dev
